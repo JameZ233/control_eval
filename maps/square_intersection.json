@@ -1,0 +1,518 @@
+{
+    "1": {
+        "connections": [
+            2,
+            3
+        ],
+        "control": "Divert",
+        "ori": [
+            1.0,
+            0.0
+        ],
+        "pos": [
+            -1.2,
+            2.55
+        ]
+    },
+    "10": {
+        "connections": [
+            5
+        ],
+        "control": "None",
+        "ori": [
+            -1.0,
+            0.0
+        ],
+        "pos": [
+            -1.8,
+            0.3
+        ]
+    },
+    "11": {
+        "connections": [
+            10
+        ],
+        "control": "None",
+        "ori": [
+            -1.0,
+            0.0
+        ],
+        "pos": [
+            -1.2,
+            0.3
+        ]
+    },
+    "12": {
+        "connections": [
+            8,
+            11
+        ],
+        "control": "Divert",
+        "ori": [
+            -1.0,
+            0.0
+        ],
+        "pos": [
+            1.2,
+            0.3
+        ]
+    },
+    "13": {
+        "connections": [
+            12,
+            15
+        ],
+        "control": "Divert",
+        "ori": [
+            -1.0,
+            0.0
+        ],
+        "pos": [
+            1.8,
+            0.3
+        ]
+    },
+    "14": {
+        "connections": [
+            8
+        ],
+        "control": "None",
+        "ori": [
+            1.0,
+            0.0
+        ],
+        "pos": [
+            -1.2,
+            0.0
+        ]
+    },
+    "15": {
+        "connections": [
+            21
+        ],
+        "control": "None",
+        "ori": [
+            -1.0,
+            0.0
+        ],
+        "pos": [
+            1.2,
+            0.0
+        ]
+    },
+    "16": {
+        "connections": [
+            17,
+            14
+        ],
+        "control": "Divert",
+        "ori": [
+            1.0,
+            0.0
+        ],
+        "pos": [
+            -1.8,
+            -0.3
+        ]
+    },
+    "17": {
+        "connections": [
+            18,
+            21
+        ],
+        "control": "Divert",
+        "ori": [
+            1.0,
+            0.0
+        ],
+        "pos": [
+            -1.2,
+            -0.3
+        ]
+    },
+    "18": {
+        "connections": [
+            19
+        ],
+        "control": "None",
+        "ori": [
+            1.0,
+            0.0
+        ],
+        "pos": [
+            1.2,
+            -0.3
+        ]
+    },
+    "19": {
+        "connections": [
+            24
+        ],
+        "control": "None",
+        "ori": [
+            1.0,
+            0.0
+        ],
+        "pos": [
+            1.8,
+            -0.3
+        ]
+    },
+    "2": {
+        "connections": [
+            29
+        ],
+        "control": "None",
+        "ori": [
+            1.0,
+            0.0
+        ],
+        "pos": [
+            1.2,
+            2.55
+        ]
+    },
+    "20": {
+        "connections": [
+            5,
+            16
+        ],
+        "control": "Divert",
+        "ori": [
+            0.0,
+            1.0
+        ],
+        "pos": [
+            -2.55,
+            -1.2
+        ]
+    },
+    "21": {
+        "connections": [
+            25
+        ],
+        "control": "None",
+        "ori": [
+            0.0,
+            -1.0
+        ],
+        "pos": [
+            -0.3,
+            -1.2
+        ]
+    },
+    "22": {
+        "connections": [
+            11
+        ],
+        "control": "None",
+        "ori": [
+            0.0,
+            1.0
+        ],
+        "pos": [
+            0.0,
+            -1.2
+        ]
+    },
+    "23": {
+        "connections": [
+            8,
+            18
+        ],
+        "control": "Divert",
+        "ori": [
+            0.0,
+            1.0
+        ],
+        "pos": [
+            0.3,
+            -1.2
+        ]
+    },
+    "24": {
+        "connections": [
+            31
+        ],
+        "control": "None",
+        "ori": [
+            0.0,
+            -1.0
+        ],
+        "pos": [
+            2.55,
+            -1.2
+        ]
+    },
+    "25": {
+        "connections": [
+            27
+        ],
+        "control": "None",
+        "ori": [
+            0.0,
+            -1.0
+        ],
+        "pos": [
+            -0.3,
+            -1.8
+        ]
+    },
+    "26": {
+        "connections": [
+            22,
+            23
+        ],
+        "control": "Divert",
+        "ori": [
+            0.0,
+            1.0
+        ],
+        "pos": [
+            0.3,
+            -1.8
+        ]
+    },
+    "27": {
+        "connections": [
+            33
+        ],
+        "control": "None",
+        "ori": [
+            -1.0,
+            0.0
+        ],
+        "pos": [
+            -1.2,
+            -2.55
+        ]
+    },
+    "28": {
+        "connections": [
+            26,
+            27
+        ],
+        "control": "Divert",
+        "ori": [
+            -1.0,
+            0.0
+        ],
+        "pos": [
+            1.2,
+            -2.55
+        ]
+    },
+    "3": {
+        "connections": [
+            6,
+            7
+        ],
+        "control": "Divert",
+        "ori": [
+            0.0,
+            -1.0
+        ],
+        "pos": [
+            -0.3,
+            1.8
+        ]
+    },
+    "4": {
+        "connections": [
+            2
+        ],
+        "control": "None",
+        "ori": [
+            0.0,
+            1.0
+        ],
+        "pos": [
+            0.3,
+            1.8
+        ]
+    },
+    "5": {
+        "connections": [
+            35
+        ],
+        "control": "None",
+        "ori": [
+            0.0,
+            1.0
+        ],
+        "pos": [
+            -2.55,
+            1.2
+        ]
+    },
+    "6": {
+        "connections": [
+            11,
+            21
+        ],
+        "control": "Divert",
+        "ori": [
+            0.0,
+            -1.0
+        ],
+        "pos": [
+            -0.3,
+            1.2
+        ]
+    },
+    "7": {
+        "connections": [
+            18
+        ],
+        "control": "None",
+        "ori": [
+            0.0,
+            -1.0
+        ],
+        "pos": [
+            0.0,
+            1.2
+        ]
+    },
+    "8": {
+        "connections": [
+            4
+        ],
+        "control": "None",
+        "ori": [
+            0.0,
+            1.0
+        ],
+        "pos": [
+            0.3,
+            1.2
+        ]
+    },
+    "9": {
+        "connections": [
+            13,
+            24
+        ],
+        "control": "Divert",
+        "ori": [
+            0.0,
+            -1.0
+        ],
+        "pos": [
+            2.55,
+            1.2
+        ]
+    },
+    "29": {
+        "connections": [
+            30 
+        ],
+        "control": "None",
+        "ori": [
+            1.0,
+            0.0
+        ],
+        "pos": [
+            1.8,
+            2.55
+        ]
+    },
+    "30": {
+        "connections": [
+            9
+        ],
+        "control": "None",
+        "ori": [
+            0.0,
+            -1.0
+        ],
+        "pos": [
+            2.55,
+            1.8
+        ]
+    },
+    "31": {
+        "connections": [
+            32
+        ],
+        "control": "None",
+        "ori": [
+            0.0,
+            -1.0
+        ],
+        "pos": [
+            2.55,
+            -1.8
+        ]
+    },
+    "32": {
+        "connections": [
+            28
+        ],
+        "control": "None",
+        "ori": [
+            -1.0,
+            0.0
+        ],
+        "pos": [
+            1.8,
+            -2.55
+        ]
+    },
+    "33": {
+        "connections": [
+            34
+        ],
+        "control": "None",
+        "ori": [
+            -1.0,
+            0.0
+        ],
+        "pos": [
+            -1.8,
+            -2.55
+        ]
+    },
+    "34": {
+        "connections": [
+            20
+        ],
+        "control": "None",
+        "ori": [
+            0.0,
+            1.0
+        ],
+        "pos": [
+            -2.55,
+            -1.8
+        ]
+    },
+    "35": {
+        "connections": [
+            36
+        ],
+        "control": "None",
+        "ori": [
+            0.0,
+            1.0
+        ],
+        "pos": [
+            -2.55,
+            1.8
+        ]
+    },
+    "36": {
+        "connections": [
+            1
+        ],
+        "control": "None",
+        "ori": [
+            1.0,
+            0.0
+        ],
+        "pos": [
+            -1.8,
+            2.55
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "_content": "Here is the JSON config file for traffic_lights", 
+    "_date": "03/25/2025",
+    "_version": "MOCK_V2",
+    "_author": "Dongshuai Su, James Zhang",
+
+    "traffic_lights": [
+        {
+            "pos": [525.0, 400.0],
+            "red_time": 12,
+            "yel_time": 1.0,
+            "gre_time": 3.00,
+            "initial_state": "GREEN",
+            "initial_delay": 0
+        },
+        {
+            "pos": [275.0, 400.0],
+           "red_time": 12,
+            "yel_time": 1.00,
+            "gre_time": 3.00,
+            "initial_state": "GREEN",
+            "initial_delay": 0
+        },
+        {
+            "pos": [275.0, 440.0],
+            "red_time": 12,
+            "yel_time": 1.00,
+            "gre_time": 3.00,
+            "initial_state": "RED",
+            "initial_delay": 4.00
+        },
+        {
+            "pos": [525.0, 360.0],
+           "red_time": 12,
+            "yel_time": 1.00,
+            "gre_time": 3.00,
+            "initial_state": "RED",
+            "initial_delay": 4.00
+        },
+        {
+            "pos": [400.0, 265.0],
+            "red_time": 12.00,
+            "yel_time": 1.00,
+            "gre_time": 3.00,
+            "initial_state": "RED",
+            "initial_delay": 8.00
+        },
+        {
+            "pos": [400.0, 520.0],
+           "red_time": 12.00,
+            "yel_time": 1.00,
+            "gre_time": 3.00,
+            "initial_state": "RED",
+            "initial_delay": 8.00
+        },
+        {
+            "pos": [440.0, 520.0],
+            "red_time": 12.00,
+            "yel_time": 1.00,
+            "gre_time": 3.00,
+            "initial_state": "RED",
+            "initial_delay": 12.00
+        },
+        {
+            "pos": [360.0, 265.0],
+           "red_time": 12.00,
+            "yel_time": 1.00,
+            "gre_time": 3.00,
+            "initial_state": "RED",
+            "initial_delay": 12.00
+        }
+    ]
+}
